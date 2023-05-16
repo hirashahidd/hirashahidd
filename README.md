@@ -1,8 +1,5 @@
 ## Hola, I'm [Hira Shahid!](https://hirashahid.netlify.app/) 👋
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hirashahid&label=Views&color=blue&style=plastic" alt="hirashahid" /> </p>
-
 <a href="https://twitter.com/thehirashahid">
   <img align="left" alt="Hira's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -21,7 +18,7 @@
 
 <br/>
 
-### I am Software Developer.
+### I am an Associate Software Engineer.
 - 🔭 I’m currently working as MERN Stack Developer.
 - 📫 How to reach me: [LinkedIn - @thehirashahid](https://linkedin.com/in/thehirashahid) , [Instagram - @thehirashahid](https://instagram.com/thehirashahid)
 - 😄 Pronouns: She/Her
@@ -45,8 +42,6 @@
 
 
 ## Connect with Me
-
-<p align="center">
 <a href="mailto:itshira696@gmail.com"><img src="https://img.shields.io/badge/-itshira696@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/thehirashahid"><img src="https://img.shields.io/badge/-Hira%20Shahid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/thehirashahid"><img src="https://img.shields.io/badge/-@thehirashahid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
